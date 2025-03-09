@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+
+.idea
+
+# Byte-compiled / cached files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS-specific
+.DS_Store
+Thumbs.db
